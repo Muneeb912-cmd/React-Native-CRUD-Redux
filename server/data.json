@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1731482458035,
+    "username": "New User 1",
+    "useremail": "newuser@mail.com",
+    "password": "$2b$10$IYulusLXd.phyLosVE2FTePyqyhmcAUCvjqwIHVSJfnrhgJDnFOzS",
+    "gender": "not added",
+    "phone": "not added"
+  },
+  {
+    "id": 1731482523609,
+    "username": "New User 2",
+    "useremail": "newuser2@mail.com",
+    "password": "$2b$10$QoRKPPPhmzLVsP4dMu3c3eBnh.f8zwjvu1G/TJHb0R.jz/.7ZPFsi",
+    "gender": "not added",
+    "phone": "not added"
+  },
+  {
+    "id": 1731482582974,
+    "username": "New User 3",
+    "useremail": "newuser3@mail.com",
+    "password": "$2b$10$py84Wq5hG/7I1a7QWXtwqOo0wAMdN4KP0NNCMK39nPp1FZY8g0fzW",
+    "gender": "not added",
+    "phone": "123122222"
+  },
+  {
+    "id": 1731495973756,
+    "username": "Test",
+    "useremail": "test@testib.com",
+    "password": "$2b$10$ih5ZxHo2/uIfGvD6pdLQteMc3likH1yep.hcx0PlwLrWDvjAP/mkG",
+    "gender": "not added",
+    "phone": "not added"
+  },
+  {
+    "id": 1731502561364,
+    "username": "New User",
+    "useremail": "newuser4@mail.com",
+    "password": "$2b$10$yod2OS/IpU/loT6NcsRxqenvJiZA7qARrFVX8EaVxmmjw/ygDRG52",
+    "gender": "Male",
+    "phone": "123456789"
+  },
+  {
+    "id": 1731581078043,
+    "username": "New User 6",
+    "useremail": "newuser6@mail.com",
+    "password": "$2b$10$INt590jSx66Ey0YZjvc8Ge9wWe7mqNNiqURUkYIxf904TCJZg5yDS",
+    "gender": "not added",
+    "phone": "not added"
+  },
+  {
+    "id": 1731581699801,
+    "username": "Muneeb",
+    "useremail": "muneeb1@mail.com",
+    "password": "$2b$10$4RbAK9HjqryZLiMIYi7rFOZeC75aB480/ZP20LqZlYwkIQTFrLOxO",
+    "gender": "Male",
+    "phone": "159357"
+  },
+  {
+    "id": 1731925344877,
+    "username": "Muneeb",
+    "useremail": "muneeb123@mail.com",
+    "password": "$2b$10$l840m4/5k5yQeSlJOk6roerdBMm.Xu694bYdLIT3bhdyorfvgv2v2",
+    "gender": "Male",
+    "phone": "+921234567890"
+  }
+]
